@@ -11,7 +11,7 @@
                                                               </pre>
 
 ## 🔥 News
-
+- [**2022-10-07**]: 10 paper has been accepted by EMNLP 2022.
 - [**2022-05-19**]: `Proton` has been accepted by KDD 2022.
 - [**2022-05-19**]: `Duplex Conversation` has been accepted by KDD 2022.
 - [**2022-07-01**]: `SPACE 3.0` has been accepted by SIGIR 2022.
